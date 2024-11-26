@@ -1,0 +1,16 @@
+.invalid__value {
+    color: rgb(255, 136, 0);
+    font-weight: 700;
+    padding: 1rem;
+    width: fit-content;
+    border: 1px solid #f7b50073;
+    border-radius: 1rem;
+}
+
+.green__light {
+    color: green;
+}
+
+.red__light {
+    color: red;
+}
