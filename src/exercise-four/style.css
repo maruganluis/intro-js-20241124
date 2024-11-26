@@ -1,0 +1,17 @@
+.speed__alert-regular {
+    color: rgb(255, 136, 0);
+    font-weight: 700;
+    padding: 1rem;
+    width: fit-content;
+    border: 1px solid #f7b50073;
+    border-radius: 1rem;
+}
+
+.speed__alert-pollution {
+    color: rgb(255, 0, 0);
+    font-weight: 700;
+    padding: 1rem;
+    width: fit-content;
+    border: 1px solid #f7000069;
+    border-radius: 1rem;
+}
