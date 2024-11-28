@@ -1,0 +1,44 @@
+.suspend__note {
+    color: rgb(255, 0, 0);
+    font-weight: 700;
+    padding: 1rem;
+    width: fit-content;
+    border: 1px solid #f7000073;
+    border-radius: 1rem;
+}
+
+.approved__note {
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    padding: 1rem;
+    width: fit-content;
+    border: 1px solid #f7b50073;
+    border-radius: 1rem;
+}
+
+.remarkable__note {
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    padding: 1rem;
+    width: fit-content;
+    border: 1px solid #adf70073;
+    border-radius: 1rem;
+}
+
+.outstanding__note {
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    padding: 1rem;
+    width: fit-content;
+    border: 1px solid #31f70073;
+    border-radius: 1rem;
+}
+
+.honor__note {
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    padding: 1rem;
+    width: fit-content;
+    border: 1px solid #00f7ad73;
+    border-radius: 1rem;
+}
