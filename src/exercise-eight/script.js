@@ -10,7 +10,7 @@ function render(html) {
  */
 
 const myNumber = parseInt(prompt("Introduce un numero")); // Paso 1 - parseInt para que los numeros sean enteros (sino no podriamos saber si son pares o impares)
-for(let i=0; i === myNumber; i++) {  // Paso 2 
+for(let i=0; i <= myNumber; i++) {  // Paso 2 
 
 
 } if (myNumber % 2 === 0) {
